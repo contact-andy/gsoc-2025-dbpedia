@@ -3,13 +3,9 @@ layout: post
 title: About The Project - Towards Amharic DBpedia
 ---
 
-# Project Title
-
-**Towards Amharic DBpedia**
+## DBpedia Project Summary
 
 ---
-
-## DBpedia Project Summary
 
 Amharic Wikipedia lacks structured knowledge representation, which limits its integration into global knowledge graphs like DBpedia. This gap hinders the accessibility, discoverability, and interoperability of Amharic content in multilingual semantic web applications.
 
@@ -21,9 +17,11 @@ This project proposes to enhance the Amharic chapter of DBpedia by extracting st
 
 The output will be published as **RDF triples** and made accessible via a **user-friendly web interface**, following **FAIR** (Findable, Accessible, Interoperable, Reusable) data principles.
 
----
+<!--more-->
 
 ## Deliverables
+
+---
 
 - An Amharic-compatible extension to the DBpedia Extraction Framework
 - New infobox mapping templates for Amharic Wikipedia
@@ -41,9 +39,9 @@ The output will be published as **RDF triples** and made accessible via a **user
   - Usage
   - FAIR-compliant publishing
 
----
-
 ## Project Technologies
+
+---
 
 - Python
 - DBpedia Extraction Framework (DEF)
@@ -51,9 +49,9 @@ The output will be published as **RDF triples** and made accessible via a **user
 - SPARQL
 - Laravel (PHP)
 
----
-
 ## Project Topics
+
+---
 
 - Semantic Web
 - Knowledge Graph
