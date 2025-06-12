@@ -5,10 +5,6 @@ date: 2025-05-31
 categories: [gsoc, dbpedia]
 ---
 
-## Introduction
-
----
-
 The period from May 9 to May 31 marks the pre-coding phase of my GSoC 2025 journey with DBpedia. During this time, I focused on onboarding, community participation, and preparing for the coding phase.
 
 ## Tasks Completed
