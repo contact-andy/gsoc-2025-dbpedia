@@ -5,9 +5,6 @@ title: About The Project - Towards Amharic DBpedia
 
 excerpt: >
 
-    ## DBpedia Project Summary
-    ---
-
     Amharic Wikipedia lacks structured knowledge representation, which limits its integration into global knowledge graphs like DBpedia. This gap hinders the accessibility, discoverability, and interoperability of Amharic content in multilingual semantic web applications.
 
     This project proposes to enhance the Amharic chapter of DBpedia by extracting structured data from Amharic Wikipedia. It involves:
