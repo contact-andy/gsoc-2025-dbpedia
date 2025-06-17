@@ -35,6 +35,7 @@ This report summarizes my work during the second official GSoC coding week (June
   - Defining **mappings**
   - Developing new **extractors** (e.g., citation, disambiguation)
 - Verify and analyze **mapping statistics** to evaluate the quality and completeness of extractions.
+- **Install Virtuoso locally** and test it using the extracted RDF triples to explore how data can be queried via SPARQL and potentially visualized.
 
 ## Conclusion
 
