@@ -1,0 +1,47 @@
+<style>
+  .sidebar {
+    position: fixed;
+    left: 0;
+    top: 60px;
+    width: 200px;
+    height: 100%;
+    background-color: #f4f4f4;
+    padding: 15px;
+    overflow-y: auto;
+    border-right: 1px solid #ccc;
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+  }
+
+  .sidebar ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .sidebar li {
+    margin: 10px 0;
+  }
+
+  .sidebar a {
+    text-decoration: none;
+    color: #333;
+  }
+
+  .sidebar a:hover {
+    text-decoration: underline;
+  }
+
+  body {
+    margin-left: 220px;
+  }
+</style>
+
+<div class="sidebar">
+  <h3>Posts</h3>
+  <ul>
+    {% for post in site.posts %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
