@@ -1,6 +1,7 @@
 ---
 layout: post
 title: About The Project - Towards Amharic DBpedia
+short_title: About The Project
 ---
 
 Amharic Wikipedia lacks structured knowledge representation, which limits its integration into global knowledge graphs like DBpedia. This gap hinders the accessibility, discoverability, and interoperability of Amharic content in multilingual semantic web applications.
@@ -14,6 +15,12 @@ This project proposes to enhance the Amharic chapter of DBpedia by extracting st
 The output will be published as **RDF triples** and made accessible via a **user-friendly web interface**, following **FAIR** (Findable, Accessible, Interoperable, Reusable) data principles.
 
 <!--more-->
+
+## Mentors
+
+Ricardo Usbeck, Meti, Hizkiel Alemayehu, Tilahun Abedissa
+
+---
 
 ## Deliverables
 
