@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About The Project - Towards Amharic DBpedia
-short_title: About The Project
+short_title: "About The Project"
 ---
 
 Amharic Wikipedia lacks structured knowledge representation, which limits its integration into global knowledge graphs like DBpedia. This gap hinders the accessibility, discoverability, and interoperability of Amharic content in multilingual semantic web applications.
