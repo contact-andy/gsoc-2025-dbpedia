@@ -28,7 +28,6 @@
   </head>
 
   <body>
-    {% include sidebar.html %}
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
@@ -51,7 +50,9 @@
       </div>
     </div>
 
-    <div id="main" role="main" class="container">{{ content }}</div>
+    <div id="main" role="main" class="container">
+      {% include sidebar.html %} {{ content }}
+    </div>
 
     <div class="wrapper-footer">
       <div class="container">
