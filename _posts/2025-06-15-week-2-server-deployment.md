@@ -16,16 +16,17 @@ This report summarizes my work during the second official GSoC coding week (June
 - Installation proceeded smoothly due to familiarity with the requirements from the local setup completed in Week 1.
 - Configured the Extraction Framework. Initially encountered errors due to missing `.properties` files, which were expected by the system. This was resolved by referring to the official [DBpedia Extraction Framework Quickstart Guide](https://github.com/dbpedia/extraction-framework/blob/master/documentation/quickstart.md), allowing me to tailor the configuration to meet the project's needs.
 - Successfully extracted data from **Amharic Wikipedia**, generating RDF triples across multiple categories.
-- Finalized the project’s GitHub repository and shared it with mentors and the DBpedia team.
-- Created a dedicated **GitHub Pages blog** for the project and shared the link with mentors.
+- Finalized the project’s GitHub repository.
+- Created a dedicated **GitHub Pages blog** for the project and shared the link with mentors and the DBpedia team.
 - Attempted to install **Virtuoso** for triple store management but encountered permission issues. Later, I received confirmation that installing new software on the server is not permitted.
-- Registered an account on the [DBpedia Mappings Wiki](https://mappings.dbpedia.org) (Username: Andy1888) and sent a request for Create/Edit access to contribute mappings.
+- Created an account on the [DBpedia Mappings Wiki](https://mappings.dbpedia.org) (Username: Andy1888) and sent an email requesting Create/Edit access. The team responded advising to follow up via the forum, but login attempts return a **"waiting for activation"** message. This issue has been communicated for further support.
 - Attended the **Week 2 mentor meeting** on **June 13, 2025**, presented progress, and received feedback and suggestions.
 
 ## Challenges
 
 - The extraction framework initially failed due to missing custom configuration files. This was resolved by researching and adapting example files.
 - Installation of Virtuoso was blocked due to system-level restrictions, which limits testing of RDF storage and SPARQL querying locally.
+- Difficulty gaining access to the **DBpedia Mappings Wiki**: despite registering and contacting the team, the account remains inactive and cannot log in due to "waiting for activation" status. The issue has been reported but is still unresolved.
 
 ## Next Steps
 
@@ -38,4 +39,4 @@ This report summarizes my work during the second official GSoC coding week (June
 
 ## Conclusion
 
-Week 2 marked a major milestone with the successful extraction of Amharic Wikipedia. Despite some system limitations, the overall deployment and data generation went well. With the groundwork in place, the focus will now shift to refining the extraction process, contributing to DBpedia mappings, and preparing the pipeline for expanded coverage and querying.
+Week 2 marked a major milestone with the successful extraction of Amharic Wikipedia. Despite some system limitations and delays in wiki access, the overall deployment and data generation went well. With the groundwork in place, the focus will now shift to refining the extraction process, contributing to DBpedia mappings, and preparing the pipeline for expanded coverage and querying.
