@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pre-Coding Period: GSoC Preparation"
-short_title: Pre Coding
+short_title: "Pre Coding"
 date: 2025-05-31
 categories: [gsoc, dbpedia]
 ---
