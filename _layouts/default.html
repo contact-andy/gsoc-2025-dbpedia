@@ -25,6 +25,42 @@
     />
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+    <style>
+      .main-wrapper {
+        display: flex;
+        gap: 20px;
+      }
+
+      .sidebar {
+        width: 200px;
+        background-color: #f4f4f4;
+        padding: 15px;
+        border-right: 1px solid #ccc;
+      }
+
+      .sidebar ul {
+        list-style: none;
+        padding: 0;
+      }
+
+      .sidebar li {
+        margin: 10px 0;
+      }
+
+      .sidebar a {
+        text-decoration: none;
+        color: #333;
+      }
+
+      .sidebar a:hover {
+        text-decoration: underline;
+      }
+
+      .main-content {
+        flex: 1;
+        padding: 15px;
+      }
+    </style>
   </head>
 
   <body>
@@ -50,8 +86,11 @@
       </div>
     </div>
 
-    <div id="main" role="main" class="container">
-      {% include sidebar.html %} {{ content }}
+    <div class="container">
+      <div class="main-wrapper">
+        <div class="sidebar">{% include sidebar.html %}</div>
+        <div class="main-content">{{ content }}</div>
+      </div>
     </div>
 
     <div class="wrapper-footer">
