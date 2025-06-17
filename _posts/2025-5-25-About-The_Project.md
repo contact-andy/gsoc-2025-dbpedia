@@ -18,7 +18,7 @@ The output will be published as **RDF triples** and made accessible via a **user
 
 ## Mentors
 
-Ricardo Usbeck, Meti, Hizkiel Alemayehu, Tilahun Abedissa
+[Ricardo Usbeck](https://de.linkedin.com/in/ricardo-usbeck), [Meti](https://ch.linkedin.com/in/metiadanebayissa), [Hizkiel Alemayehu](https://www.linkedin.com/in/hizkiel-mitiku-alemayehu-97306010b/), [Tilahun Abedissa](https://et.linkedin.com/in/tilahun-abedissa-47372a9a)
 
 ---
 
