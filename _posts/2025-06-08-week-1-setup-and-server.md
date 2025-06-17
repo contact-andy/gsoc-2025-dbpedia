@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Week 1: Local Setup and Server Coordination"
+short_title: "Week-1"
 date: 2025-06-08
 categories: [gsoc, dbpedia]
 ---
@@ -28,7 +29,6 @@ This report summarizes my work during the first official GSoC coding week (June 
 
 - Install and test the DBpedia Extraction Framework on the **main server**.
 - Configure the **AAU server as a backup** environment.
-- Finalize the setup of my Payoneer account.
 
 ## Conclusion
 
