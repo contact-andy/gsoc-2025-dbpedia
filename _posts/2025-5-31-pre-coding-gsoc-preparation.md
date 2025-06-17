@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Pre-Coding Period: GSoC Preparation"
+short_title: Pre Coding
 date: 2025-05-31
 categories: [gsoc, dbpedia]
 ---
@@ -14,7 +15,6 @@ The period from May 9 to May 31 marks the pre-coding phase of my GSoC 2025 journ
 - Read GSoC-related documents, including Contributor Advice, Roles & Responsibilities, and the Accepted Contributor Information page.
 - Attended the GSoC Welcome Contributor Session + Q&A.
 - Joined the GSoC Alumni Discord channel.
-- Initiated the process of creating a Payoneer account (still in progress).
 - Sent an introductory email to the DBpedia community.
 - Successfully joined the DBpedia Slack workspace (after resolving a 2FA issue).
 - Had an initial meeting with mentors to discuss expectations, communication channels, and finalized the project timeline.
@@ -32,7 +32,6 @@ The period from May 9 to May 31 marks the pre-coding phase of my GSoC 2025 journ
 
 ---
 
-- Complete the Payoneer account setup.
 - Begin the coding phase focused on Amharic Wikipedia extraction.
 - Continue communication with mentors to refine tasks and technical priorities.
 - Set up the development environment and tools needed for extraction work.
