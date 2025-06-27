@@ -20,7 +20,6 @@ This report summarizes my work during the third official GSoC coding week (June 
 - Read and explored DBpedia documentation on **infobox templates, mapping definitions**, and extraction framework structure to prepare for upcoming tasks.
 - Communicated with **AAU technical staff** about configuring the local server as a backup environment. However, no concrete progress was made this week.
 - Attempted to install **Virtuoso locally**, but due to the unavailability of a functional extraction output for testing, installation and usage were postponed.
-- Successfully **completed Payoneer account registration** and received a status update following review.
 
 ## Challenges
 
