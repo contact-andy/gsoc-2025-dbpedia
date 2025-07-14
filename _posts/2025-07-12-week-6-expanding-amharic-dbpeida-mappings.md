@@ -6,7 +6,7 @@ date: 2025-07-12
 categories: [gsoc, dbpedia]
 ---
 
-This post summarizes the progress made during the sixth GSoC coding week (June 28 – July 5). The main focus this week was identifying existing infobox templates in Amharic Wikipedia, expanding DBpedia mappings, aligning templates with real Wikipedia content, and continuing the live extraction efforts.
+This post summarizes the progress made during the sixth GSoC coding week (July 06 - July 12). The main focus this week was identifying existing infobox templates in Amharic Wikipedia, expanding DBpedia mappings, aligning templates with real Wikipedia content, and continuing the live extraction efforts.
 
 <!--more-->
 
