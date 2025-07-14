@@ -6,7 +6,7 @@ date: 2025-06-29
 categories: [gsoc, dbpedia]
 ---
 
-This report summarizes my work during the fourth official GSoC coding week (June 22–27). The week began with unexpected hardware issues, but significant progress was made through local setup recovery and continued development of the DBpedia extraction pipeline.
+This report summarizes my work during the fourth official GSoC coding week (June 22–28). The week began with unexpected hardware issues, but significant progress was made through local setup recovery and continued development of the DBpedia extraction pipeline.
 
 <!--more-->
 
