@@ -19,7 +19,7 @@ This post summarizes the progress made during the sixth GSoC coding week (July 0
     - ⚠️ **3 templates** had minimal attributes and require further exploration for mapping.
     - ❌ The rest were placeholder pages with no useful template data.
 
-- Added **17 new template mappings** to [mapping.dbpedia.org](https://mapping.dbpedia.org) including:
+- Added **17 new template mappings** to [mapping.dbpedia.org](https://mappings.dbpedia.org/index.php/Mapping_am) including:
   - `Flag`, `EthnicGroup`, `MilitaryConflict`, `WorldHeritageSite`, `MusicalWork`
   - `SoccerPlayer`, `Weapon`, `SportsEvent`, `SoccerMatch`, `Colour`
   - `ReligiousBuilding`, `Academic`, `Chef`  
