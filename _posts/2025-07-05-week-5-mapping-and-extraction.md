@@ -6,7 +6,7 @@ date: 2025-07-05
 categories: [gsoc, dbpedia]
 ---
 
-This post summarizes my work during the fifth official GSoC coding week (June 28 – July 5). The focus this week was on template mapping, end-to-end extraction testing, and initiating the live DBpedia extraction process.
+This post summarizes my work during the fifth official GSoC coding week (June 29 – July 5). The focus this week was on template mapping, end-to-end extraction testing, and initiating the live DBpedia extraction process.
 
 <!--more-->
 
