@@ -14,10 +14,10 @@ This post summarizes the progress made during the sixth GSoC coding week (July 0
 
 - Based on mentor recommendations, I **searched Amharic Wikipedia** for existing infobox templates (`መረጃሳጥን`).  
   - Identified **67 total templates**. Among these:
-    - ✅ **17 templates** were already mapped in Amharic DBpedia.
-    - ✅ **12 templates** had existing content and infobox structure in Wikipedia.
-    - ⚠️ **3 templates** had minimal attributes and require further exploration for mapping.
-    - ❌ The rest were placeholder pages with no useful template data.
+    - **17 templates** were already mapped in Amharic DBpedia.
+    - **12 templates** had existing content and infobox structure in Wikipedia.
+    - **3 templates** had minimal attributes and require further exploration for mapping.
+    - The rest were placeholder pages with no useful template data.
 
 - Added **17 new template mappings** to [mapping.dbpedia.org](https://mappings.dbpedia.org/index.php/Mapping_am) including:
   - `Flag`, `EthnicGroup`, `MilitaryConflict`, `WorldHeritageSite`, `MusicalWork`
