@@ -31,7 +31,7 @@ This post summarizes the progress made during the seventh GSoC coding week (July
   - Steps to generate local statistics.
   - This draft will be refined and published as part of the knowledge base for future contributors.
 
-- Held a **mentor meeting with Meti** to review the issues around statistics generation.
+- Held a **mentor meeting** to review the issues around statistics generation.
   - We confirmed that the steps being followed were correct.
   - My mentor will further explore the problem in the coming days to identify any hidden issues or configuration gaps.
 
