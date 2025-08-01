@@ -29,7 +29,7 @@ This post summarizes the progress made during the eighth GSoC coding week (July 
   - Running local statistics generation.
   - This document aims to provide a clear on-ramp for new contributors to the Amharic DBpedia project.
 
-- Participated in the **Week 7 mentor meeting** on **July 25, 2025**.
+- Participated in the **Week 8 mentor meeting** on **July 25, 2025**.
   - Presented this week’s progress and challenges.
   - Mentors emphasized the importance of analyzing current mapping statistics and preparing a report to evaluate overall template coverage.
 
