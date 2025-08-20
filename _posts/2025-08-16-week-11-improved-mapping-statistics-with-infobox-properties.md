@@ -38,6 +38,8 @@ Previously, the statistics pipeline failed to properly count properties because 
 #### Outcome
 With these updates, the **mapping statistics now work with the current dump and mappings**. Some templates still require additional property editing, which will be addressed in the next iteration.
 
+![Screenshot of mapping statistics](images/statistics-screenshot.png)
+
 ---
 
 ### 2. Mentor Meeting
