@@ -42,11 +42,7 @@ With these updates, the **mapping statistics now work with the current dump and 
 
 ---
 
-### 2. Mentor Meeting
-## Completed Tasks
-
-- By updating the Mapping creation classes (...existing content...)
-
+### 2. Ignore-list implementation 
 - I have explored **ignore-lists** in the statistics.  
   This file contains a list of templates and properties to be ignored in the mapping statistics report.  
   I added the following templates, which are more suitable as pages rather than properties of a template:
