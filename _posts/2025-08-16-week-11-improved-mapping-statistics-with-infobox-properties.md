@@ -40,6 +40,8 @@ With these updates, the **mapping statistics now work with the current dump and 
 
 ![Screenshot of mapping statistics](https://github.com/contact-andy/gsoc-2025-dbpedia/blob/main/images/statistics-screenshot.png)
 
+![Screenshot of mapping statistics](./images/statistics-screenshot.png)
+
 ---
 
 ### 2. Ignore-list implementation 
