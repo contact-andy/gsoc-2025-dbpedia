@@ -43,6 +43,33 @@ With these updates, the **mapping statistics now work with the current dump and 
 ---
 
 ### 2. Mentor Meeting
+## Completed Tasks
+
+- By updating the Mapping creation classes (...existing content...)
+
+- I have explored **ignore-lists** in the statistics.  
+  This file contains a list of templates and properties to be ignored in the mapping statistics report.  
+  I added the following templates, which are more suitable as pages rather than properties of a template:
+
+  - የ2010 እ.ኤ.አ. ፊፋ የዓለም ዋንጫ ምድብ ኤ  
+  - የ2010 እ.ኤ.አ. ፊፋ የዓለም ዋንጫ ምድብ ቢ  
+  - የ2010 እ.ኤ.አ. ፊፋ የዓለም ዋንጫ ምድብ ሲ  
+  - የ2010 እ.ኤ.አ. ፊፋ የዓለም ዋንጫ ምድብ ዲ  
+  - የ2010 እ.ኤ.አ. ፊፋ የዓለም ዋንጫ ምድብ ኢ  
+  - የ2010 እ.ኤ.አ. ፊፋ የዓለም ዋንጫ ምድብ ኤፍ  
+  - የ2010 እ.ኤ.አ. ፊፋ የዓለም ዋንጫ ምድብ ጂ  
+  - የ2010 እ.ኤ.አ. ፊፋ የዓለም ዋንጫ ምድብ ኤች  
+
+- Once I added these to the ignore list and regenerated the mapping statistics, the updated report looked like this:  
+
+![Screenshot of mapping statistics after applying ignore list] (https://github.com/contact-andy/gsoc-2025-dbpedia/blob/main/images/statistics-screenshot-with-ignore-list.png)
+
+- However, for unknown reasons the mapping statistics report ignored only two of the templates.  
+  This requires additional debugging in the ignore-list implementation next week.
+  
+---
+
+### 3. Mentor Meeting
 - Attended the **Week 11 mentor meeting** on **August 15, 2025**.  
 - Shared the improved statistics results and discussed next steps.  
 - Mentors recommended continuing with:
@@ -51,12 +78,13 @@ With these updates, the **mapping statistics now work with the current dump and 
 
 ---
 
-### 3. Blog Post Update
+### 4. Blog Post Update
 - Published the **Week 10 blog post** on the GitHub Pages project blog.
 
 ---
 
 ## Next Steps
+- Debugging in the ignore-list implementation 
 - Map missed templates and properties to reach **100% coverage** in statistics.  
 - Progress the **DBpedia Live extraction** for Amharic.  
 - Complete the **automation workflow** for template and mapping creation.  
