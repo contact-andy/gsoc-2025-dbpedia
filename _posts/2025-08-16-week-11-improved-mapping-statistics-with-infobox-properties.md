@@ -62,7 +62,7 @@ With these updates, the **mapping statistics now work with the current dump and 
 
 - Once I added these to the ignore list and regenerated the mapping statistics, the updated report looked like this:  
 
-![Screenshot of mapping statistics after applying ignore list] (https://github.com/contact-andy/gsoc-2025-dbpedia/blob/main/images/statistics-screenshot-with-ignore-list.png)
+![Screenshot of mapping statistics after applying ignore list](https://github.com/contact-andy/gsoc-2025-dbpedia/blob/main/images/statistics-screenshot-with-ignore-list.png)
 
 - However, for unknown reasons the mapping statistics report ignored only two of the templates.  
   This requires additional debugging in the ignore-list implementation next week.
