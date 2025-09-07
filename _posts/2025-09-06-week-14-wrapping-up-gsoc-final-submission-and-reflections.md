@@ -33,7 +33,7 @@ The main focus was on completing the **final GSoC submission**, finalizing docum
 
 ### 3. Mappings and Statistics
 - Updated **Amharic mappings**, the **mapping statistics report**, and the **Amharic ignore list**.  
-- Submitted all updates as a **Pull Request** to the main repository.  
+- Submitted all updates as a **Pull Request** to the main repository. [View Pull Request #781](https://github.com/dbpedia/extraction-framework/pull/781)
 
 ---
 
